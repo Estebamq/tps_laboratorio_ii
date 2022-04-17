@@ -1,5 +1,5 @@
 ﻿
-namespace MiCalculadora
+namespace VistaCalculadora
 {
     partial class FormCalculadora
     {
