@@ -1,0 +1,12 @@
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.csprojAssemblyReference.cache
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Entidades\obj\Debug\net5.0\Entidades.pdb
