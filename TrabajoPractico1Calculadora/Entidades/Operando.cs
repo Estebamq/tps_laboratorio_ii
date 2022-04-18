@@ -44,7 +44,12 @@ namespace Entidades
 
         }
        
-      
+          
+        /// <summary>
+        /// convierte de binario a decimal
+        /// </summary>
+        /// <param name="binario"></param>
+        /// <returns></returns>
         public string BinarioDecimal(string binario)
         {
             string respuesta = "Valor invalido";
@@ -63,7 +68,11 @@ namespace Entidades
         }
 
         
-
+        /// <summary>
+        /// convierte de decimal a binario
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns>
         public string DecimalBinario(double numero)
         {
             long num;

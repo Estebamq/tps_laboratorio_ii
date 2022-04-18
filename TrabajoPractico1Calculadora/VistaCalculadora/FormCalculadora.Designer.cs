@@ -127,9 +127,9 @@ namespace VistaCalculadora
             // 
             this.lstOperaciones.FormattingEnabled = true;
             this.lstOperaciones.ItemHeight = 15;
-            this.lstOperaciones.Location = new System.Drawing.Point(359, 12);
+            this.lstOperaciones.Location = new System.Drawing.Point(371, 13);
             this.lstOperaciones.Name = "lstOperaciones";
-            this.lstOperaciones.Size = new System.Drawing.Size(147, 184);
+            this.lstOperaciones.Size = new System.Drawing.Size(145, 184);
             this.lstOperaciones.TabIndex = 9;
             // 
             // FormCalculadora
@@ -149,6 +149,7 @@ namespace VistaCalculadora
             this.Controls.Add(this.lblResultado);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormCalculadora";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Esteban Marcelo Quiroz del curso 2º E";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormCalculadora_FormClosing_1);
             this.Load += new System.EventHandler(this.FormCalculadora_Load);

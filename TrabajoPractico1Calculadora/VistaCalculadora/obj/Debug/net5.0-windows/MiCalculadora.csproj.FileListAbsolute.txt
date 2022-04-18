@@ -1,5 +1,4 @@
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csprojAssemblyReference.cache
-E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
@@ -19,3 +18,4 @@ E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\Vist
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
 E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+E:\facultad\2-Labo II\TP2022\tps_laboratorio_ii\TrabajoPractico1Calculadora\VistaCalculadora\obj\Debug\net5.0-windows\VistaCalculadora.FormCalculadora.resources

@@ -32,6 +32,8 @@ namespace VistaCalculadora
         private void btnOperar_Click(object sender, EventArgs e)
         {
             lblResultado.Text = Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Text).ToString();
+            lstOperaciones.Items.Add($"{txtNumero1.Text} {cmbOperador.Text} {txtNumero2.Text} = {lblResultado.Text}");
+            
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -57,6 +59,13 @@ namespace VistaCalculadora
         }
 
         //METOODOS
+        /// <summary>
+        /// recibe los valores para operar y el operador, retorna el resultado 
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
             Operando numeroUno = new Operando(numero1);
@@ -66,7 +75,9 @@ namespace VistaCalculadora
         }
 
         //metodo Limpiar
-       
+        /// <summary>
+        /// Limpia el combobox, el label resultado y los texbox
+        /// </summary>
         private void Limpiar()
         {
             txtNumero1.Clear();
